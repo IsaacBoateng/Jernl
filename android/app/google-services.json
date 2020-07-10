@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105317456864",
+    "firebase_url": "https://jernl-88dc5.firebaseio.com",
+    "project_id": "jernl-88dc5",
+    "storage_bucket": "jernl-88dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105317456864:android:f674883523ac9a82a1a985",
+        "android_client_info": {
+          "package_name": "com.osboat.jernl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105317456864-ghqcdt835pphc3c3adatotpcsh6lotck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQcqTm7BHhNzHo-xvV8U8UPIJFNKO2CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105317456864-ghqcdt835pphc3c3adatotpcsh6lotck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
